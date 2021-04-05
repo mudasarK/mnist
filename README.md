@@ -1,2 +1,3 @@
 # mnist
-digits classification--- a hello world of AI
+The MNIST digit classification python project enables machines to recognize handwritten digits.
+
